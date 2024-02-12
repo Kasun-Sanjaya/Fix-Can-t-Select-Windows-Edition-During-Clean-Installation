@@ -1,4 +1,5 @@
 :\sources
+file path
  path 
 
  "ei.cfg"
